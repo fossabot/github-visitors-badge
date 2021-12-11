@@ -1,6 +1,7 @@
 ![cooltext399899734189845](https://user-images.githubusercontent.com/86920820/145670160-be3ab034-6af2-412f-8e19-910007c75e06.png)
 
 # [github visitors badge](https://github-visitors-badge.glitch.me) ![visitor badge](https://github-visitors-badge.glitch.me/badge?page_id=SenuGamerBoy.github-visitors-badge&left_text=MyPageVisitors)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSenuGamerBoy%2Fgithub-visitors-badge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSenuGamerBoy%2Fgithub-visitors-badge?ref=badge_shield)
 
 A badge generator service to count visitors of your markdown file.
 
@@ -130,3 +131,6 @@ Please add your github Username to the AUTHORS file
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSenuGamerBoy%2Fgithub-visitors-badge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSenuGamerBoy%2Fgithub-visitors-badge?ref=badge_large)
